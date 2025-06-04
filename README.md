@@ -19,8 +19,9 @@ Soy una persona muy curiosa que siempre busca estar al día en el mundo de la in
 
 **Hard Skills:**  
 - Python, JavaScript, SQL  
-- Vue, Django, Flutter  
-- GraphQL, Docker  
+- Vue, Django, Flutter
+- GraphQL, Docker, AWS
+- Scss, Typescript, Pug, Tailwind
 
 ---
 
