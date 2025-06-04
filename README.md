@@ -34,7 +34,7 @@ Soy una persona muy curiosa que siempre busca estar al día en el mundo de la in
 ## 🌐 Encuéntrame en
 
 - [LinkedIn: @mauronava](https://linkedin.com/in/mauronava)
-- [Instagram: @mauro.dev](https://instagram.com/mauro.dev)
+- [Instagram: @mauro.dev](https://instagram.com/mauronava.dev)
 - [Sitio Web: mauronava.com](https://mauronava.com)
 
 ---
